@@ -37,7 +37,7 @@ The project was structured as an investigation, with each step building upon the
 
 | Category              | Technologies                                                               |
 | --------------------- | -------------------------------------------------------------------------- |
-| **Database**          | `PostgreSQL`                                                               |
+| **Database**          | `PostgreSQL` ,                                                             |
 | **Analysis & ML**     | `Python`, `Jupyter`, `Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`, `Seaborn` |
 | **BI & Visualization**| `Microsoft Power BI`                                                       |
 
@@ -49,6 +49,11 @@ The interactive Power BI dashboard is the culmination of this analysis. It conne
 
 ![alt text](image-1.png)
 ![alt text](image-2.png)
+<img width="1106" height="946" alt="Screenshot 2026-06-15 152116" src="https://github.com/user-attachments/assets/84df94ad-d357-4401-94cf-488e39ff1add" />
+<img width="2494" height="752" alt="Screenshot 2026-06-15 152229" src="https://github.com/user-attachments/assets/0d82ea83-fc28-41eb-aa0c-3712555c268f" />
+
+
+
 ---
 
 ## 6. Project Structure
